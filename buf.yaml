@@ -1,0 +1,4 @@
+version: v1
+name: buf.build/ericbamba/barin-todo
+deps:
+  - buf.build/bufbuild/connect-go
